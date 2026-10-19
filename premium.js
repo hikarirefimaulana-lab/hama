@@ -1,5 +1,5 @@
 const premiumUsers = [
-  '8086581937' 
+  '7086594019' 
 ];
 
 module.exports = premiumUsers;

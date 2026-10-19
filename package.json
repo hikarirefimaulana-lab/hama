@@ -1,0 +1,21 @@
+{
+  "name": "Voltage Death",
+  "version": "4.0.0 Free",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:@alannxd/baileys",
+    "crypto": "^1.0.1",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.64.0",
+    "jimp": "^1.6.1",
+    "pino": "^9.6.0"
+  },
+  "keywords": [],
+  "author": "Voltage",
+  "license": "ISC",
+  "description": "Voltage Death Create By @VtgZuxy"
+}

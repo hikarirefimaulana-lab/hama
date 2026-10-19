@@ -1,9 +1,9 @@
 {
   "name": "Voltage Death",
   "version": "4.0.0 Free",
-  "main": "bot.js",
+  "main": "Voltage.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node Voltage.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@alannxd/baileys",
